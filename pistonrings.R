@@ -17,4 +17,4 @@ process.capability(q, spec.limits=c(73.99,74.01))
 process.capability(q, spec.limits = c(73.99, 74.1))
 detach(pistonrings)
 
-#Fim do script
+#Fim do script - Montgomery
